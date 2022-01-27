@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.border-black {
+    border: 2px solid black;
+}
+
+p {
+    width: 200px;
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+nav {
+    
+}
+
+
+

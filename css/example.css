@@ -70,7 +70,8 @@ nav a:hover {
 
 #full-articles {
     display: grid;
-    grid-template-columns: auto minmax(700px, 60%) auto;
+     grid-template-columns: auto minmax(700px, 60%) auto;
+
 }
 
 article {
